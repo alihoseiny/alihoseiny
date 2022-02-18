@@ -5,8 +5,8 @@ on:
     # Runs every hour, on the hour
     - cron: "0 0 * * *"
   push:
-    - branches:
-      - master
+    - branches: [ "**" ]
+
   workflow_dispatch:
 
 jobs:
