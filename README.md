@@ -76,6 +76,11 @@ Now, I have only three goals: better softwares, better products, and better team
 
  # 📔 Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
+- [برای اینترنت، برای آزادی](https://blog.alihoseiny.ir/%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%db%8c%d9%86%d8%aa%d8%b1%d9%86%d8%aa%d8%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a2%d8%b2%d8%a7%d8%af%db%8c/)
+- [خانم‌ها، آقایان، نرم‌افزار آزاد شکست خورده است](https://blog.alihoseiny.ir/%d8%ae%d8%a7%d9%86%d9%85%e2%80%8c%d9%87%d8%a7%d8%8c-%d8%a2%d9%82%d8%a7%db%8c%d8%a7%d9%86%d8%8c-%d9%86%d8%b1%d9%85%e2%80%8c%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%a2%d8%b2%d8%a7%d8%af-%d8%b4%da%a9%d8%b3%d8%aa-%d8%ae%d9%88%d8%b1%d8%af%d9%87-%d8%a7%d8%b3%d8%aa/)
+- [ساخت پاسخ خطای استاندارد در API های HTTP به زبان آدمیزاد](https://blog.alihoseiny.ir/%d8%b3%d8%a7%d8%ae%d8%aa-%d9%be%d8%a7%d8%b3%d8%ae-%d8%ae%d8%b7%d8%a7%db%8c-%d8%a7%d8%b3%d8%aa%d8%a7%d9%86%d8%af%d8%a7%d8%b1%d8%af-%d8%af%d8%b1-api-%d9%87%d8%a7%db%8c-http-%d8%a8%d9%87-%d8%b2%d8%a8%d8%a7%d9%86-%d8%a2%d8%af%d9%85%db%8c%d8%b2%d8%a7%d8%af/)
+- [چگونه با استفاده از Cache در پایتون زمان برنامه را کم‌تر تلف کنیم؟](https://blog.alihoseiny.ir/%da%86%da%af%d9%88%d9%86%d9%87-%d8%a8%d8%a7-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%d8%a7%d8%b2-cache-%d8%af%d8%b1-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86-%d8%b2%d9%85%d8%a7%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d8%a7-%da%a9%d9%85%e2%80%8c%d8%aa%d8%b1-%d8%aa%d9%84%d9%81-%da%a9%d9%86%db%8c%d9%85%d8%9f/)
+- [آموزش زبان برنامه‌نویسی Rust – قسمت ۲۱:‌ مدیریت خطاها](https://blog.alihoseiny.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%b2%d8%a8%d8%a7%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87%e2%80%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-rust-%d9%82%d8%b3%d9%85%d8%aa-%db%b2%db%b1%e2%80%8c-%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%ae%d8%b7%d8%a7%d9%87%d8%a7/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest Youtube Videos
