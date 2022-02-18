@@ -16,3 +16,11 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=alihoseiny&hide=contribs&count_private=true&show_icons=true&theme=codeSTACKr" />
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihoseiny&show_icons=true&theme=codeSTACKr" />
  </p>
+
+ # 📔 Latest Blog Posts
+ <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+# 📺 Latest Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
