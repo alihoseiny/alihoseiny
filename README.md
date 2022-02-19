@@ -1,9 +1,9 @@
 <h1 align=center> Mohammadreza Alihoseiny </h1>
 
-## 🕵️ Who Am I?
-Imagine someone sitting in front of his CRT monitor and writing some green words on a black screen. And then, boom, a new thing comes to the world. That's how I imagined programming in my teenage years. And that's why I became a programmer.
-
-I started programming by web development when I was 16. My friend and I created a website named "Shek". We were creating free templates and sometimes, we were selling templates to people. Making money and creating things? That was a dream.
+## 🧙‍♂️ Who Am I?
+<details>
+    <summary>Imagine someone sitting in front of his CRT monitor and writing some green words on a black screen. And then, boom, a new thing comes to the world. That's how I imagined programming in my teenage years. And that's why I became a programmer. <code>Click for more! 👇</code></summary>
+    I started programming by web development when I was 16. My friend and I created a website named "Shek". We were creating free templates and sometimes, we were selling templates to people. Making money and creating things? That was a dream.
 
 There were many excitements in Web development back then: Let's not use tables and instead create layouts with the Twitter bootstrap. And there was a (somehow) new thing that everyone talked about that: jQuery!
 
@@ -22,6 +22,7 @@ Today, most of the time, I try to manage my team, work with other teams, and try
 That was my journey: wanting more and dreaming bigger.
 
 Now, I have only three goals: better softwares, better products, and better teams.
+</details>
 
 ## 🧪 My Top Open Source Projects
 <a href="https://github.com/alihoseiny/word_cloud_fa">
