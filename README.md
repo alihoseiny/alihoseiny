@@ -2,7 +2,7 @@
 
 ## 🧙‍♂️ Who Am I?
 <details>
-    <summary>Imagine someone sitting in front of his CRT monitor and writing some green words on a black screen. And then, boom, a new thing comes to the world. That's how I imagined programming in my teenage years. And that's why I became a programmer. <code>Click for more! 👇</code></summary>
+    <summary>Imagine someone sitting in front of his CRT monitor and writing some green words on a black screen. And then, boom, a new thing comes to the world. That's how I imagined programming in my teenage years. And that's why I became a programmer. <code>more 👇</code></summary>
     I started programming by web development when I was 16. My friend and I created a website named "Shek". We were creating free templates and sometimes, we were selling templates to people. Making money and creating things? That was a dream.
 
 There were many excitements in Web development back then: Let's not use tables and instead create layouts with the Twitter bootstrap. And there was a (somehow) new thing that everyone talked about that: jQuery!
